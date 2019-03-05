@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annuaire>
+  <contact>
+    <nom>White</nom>
+    <prenom>Walter</prenom>
+    <tel>0102030405</tel>
+    <adresse>36 rue charles de gaulle</adresse>
+    <mail>ww@gmail.com</mail>
+  </contact>
+  <contact>
+    <nom>Wilde</nom>
+    <prenom>Oscar</prenom>
+    <tel>0606060606</tel>
+    <adresse>23 rue de la marne</adresse>
+    <mail>ow@yahoo.fr</mail>
+  </contact>
+  <contact>
+    <nom>Payet</nom>
+    <prenom>Richeville</prenom>
+    <tel>0262112233</tel>
+    <adresse>12 avenue Foch Paris</adresse>
+    <mail>pr@mail.fr</mail>
+  </contact>
+  <contact>
+    <nom>Hoarau</nom>
+    <prenom>Anais</prenom>
+    <tel>0262444444</tel>
+    <adresse>8 impasse de la rotonde</adresse>
+    <mail>toto@yahoo.fr</mail>
+  </contact>
+  <contact>
+    <nom>Grondin</nom>
+    <prenom>Romain</prenom>
+    <tel>0262123456</tel>
+    <adresse>12 avenue de la trinite</adresse>
+    <mail>gr@u-psud.fr</mail>
+  </contact>
+</annuaire>

@@ -1,0 +1,113 @@
+/* Général ------------------------------------------------------------------------------------- */
+
+body, p, legend, label, input {
+    font: normal 8pt verdana, helvetica, sans-serif;
+}
+
+/* Forms --------------------------------------------------------------------------------------- */
+fieldset {
+    padding: 10px;
+    border: 1px #0568CD solid;
+    margin: 10px;
+}
+
+legend {
+    font-weight: bold;
+    color: #0568CD;
+}
+
+form label {
+    float: left;
+    width: 200px;
+    margin: 3px 0px 0px 0px;
+}
+
+form input {
+    margin: 3px 3px 0px 0px;
+    border: 1px #999 solid;
+}
+
+form input.sansLabel {
+    margin-left: 200px;
+}
+
+/* Styles et couleurs -------------------------------------------------------------------------- */
+.requis {
+    color: #c00;
+}
+
+.erreur {
+    color: #900;
+}
+
+.succes {
+    color: #090;
+}
+
+.info {
+    font-style: italic;
+    color: #E8A22B;
+}
+
+form .erreur {
+    color: #900;
+}
+
+/* Tables et td ----------------------------------------------------------------------------------*/
+
+table {
+	width:100%;
+	margin-top:20px;
+}
+
+.table td {
+   text-align: center;   
+}
+
+.table th {
+	text-align: center;
+}
+
+/* Corps de la page ----------------------------------------------------------------------------------*/
+
+.container {
+	margin-top:20px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+h1 {
+	text-align:center;
+}
+
+/*---------------------*/
+
+.btn-secondary{
+	background-color: #fff;
+    border-color: #ccc;
+    color: #373a3c;
+    
+}
+
+/* CSS REQUIRED */
+.state-icon {
+    left: -5px;
+}
+.list-group-item-primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(66, 139, 202);
+}
+
+/* DEMO ONLY - REMOVES UNWANTED MARGIN */
+.well .list-group {
+    margin-bottom: 0px;
+}
+
+.list-group-item label{
+	float: none;
+	margin: auto;
+	width: auto;
+}
